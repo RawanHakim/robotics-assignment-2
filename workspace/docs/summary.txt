@@ -1,0 +1,2 @@
+hi im in file1
+ welcome to my project
